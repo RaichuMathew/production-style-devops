@@ -24,4 +24,5 @@ DevOps skills using Docker, Kubernetes, Jenkins, and Terraform.
 - Custom port mapping
 - Non-root container execution
 - Optimized slim image usage
-
+### Kubernetes
+- Sidecar Container Pattern (Nginx log shipping)
