@@ -26,3 +26,4 @@ DevOps skills using Docker, Kubernetes, Jenkins, and Terraform.
 - Optimized slim image usage
 ### Kubernetes
 - Sidecar Container Pattern (Nginx log shipping)
+- Persistent Volume with Nginx Deployment (hostPath + manual StorageClass)
